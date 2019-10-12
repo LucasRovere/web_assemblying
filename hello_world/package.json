@@ -1,0 +1,15 @@
+{
+  "name": "AAA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "teste": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+  }
+}
