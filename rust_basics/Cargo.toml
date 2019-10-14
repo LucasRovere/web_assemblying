@@ -1,0 +1,7 @@
+[package]
+name = "hello_world_cargo_rust"
+version = "0.1.0"
+authors = ["landrovere <lucas.rovere@vivitech.com.br>"]
+edition = "2018"
+
+[dependencies]
